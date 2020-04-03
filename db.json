@@ -1,15 +1,14 @@
 {
     "firstName": "Rack",
-    "address": {
-        "streetAddress": "126 Udhna",
-        "city": "san jone",
-        "state": "CA",
-        "postalCode": "394221"
+    "movs": {
+        "fdo": "a",
+        "sentido": "c",
+        "nemo": "CASCD34",
+        "nominal": "1540000"
     },
     "LimRank": [
         { "lim":"c2", "fdo":"a", "hol":0.00938,"holAnt":-0.01938, "msgTxt":"limite en riesgo de exceso"},
         { "lim":"b3", "fdo":"b", "hol":0.04523,"holAnt": 0.06654, "msgTxt":"reduccion de holgura"},
         { "lim":"a1", "fdo":"c", "hol":0.73234,"holAnt": 0.04523, "msgTxt":"valorizacion"}
-       
     ]
 }
