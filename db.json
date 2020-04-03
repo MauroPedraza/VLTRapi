@@ -9,14 +9,14 @@
     "LimRank": [
         { "lim":"c2", "fdo":"a", "hol":0.00938,"holAnt":-0.01938, "msgTxt":"limite en riesgo de exceso"},
         { "lim":"b3", "fdo":"b", "hol":0.04523,"holAnt": 0.06654, "msgTxt":"reduccion de holgura"},
-        { "lim":"a1", "fdo":"c", "hol":0.73234,"holAnt": 0.04523, "msgTxt":"valorizacion"}
-        { "lim":"b2", "fdo":"d", "hol":0.00032,"holAnt": -0.69863, "msgTxt":"nota del usuario"}
-        { "lim":"c4", "fdo":"e", "hol":-0.69863,"holAnt": 1.25368, "msgTxt":"descripcion motivo"}
-        { "lim":"b1", "fdo":"e", "hol":1.84798,"holAnt": -0.02123, "msgTxt":"falta revision"}
-        { "lim":"a5", "fdo":"d", "hol":1.25368,"holAnt": 1.13423, "msgTxt":"holgura esperada"}
-        { "lim":"a4", "fdo":"c", "hol":-0.02123,"holAnt": -0.99342, "msgTxt":"Santander con exceso"}
-        { "lim":"b7", "fdo":"b", "hol":1.13423,"holAnt": 1.34572, "msgTxt":"holgura por valorizacion"}
-        { "lim":"c11", "fdo":"a", "hol":-0.99342,"holAnt": 0.00032, "msgTxt":"exceso intraday"}
+        { "lim":"a1", "fdo":"c", "hol":0.73234,"holAnt": 0.04523, "msgTxt":"valorizacion"},
+        { "lim":"b2", "fdo":"d", "hol":0.00032,"holAnt": -0.69863, "msgTxt":"nota del usuario"},
+        { "lim":"c4", "fdo":"e", "hol":-0.69863,"holAnt": 1.25368, "msgTxt":"descripcion motivo"},
+        { "lim":"b1", "fdo":"e", "hol":1.84798,"holAnt": -0.02123, "msgTxt":"falta revision"},
+        { "lim":"a5", "fdo":"d", "hol":1.25368,"holAnt": 1.13423, "msgTxt":"holgura esperada"},
+        { "lim":"a4", "fdo":"c", "hol":-0.02123,"holAnt": -0.99342, "msgTxt":"Santander con exceso"},
+        { "lim":"b7", "fdo":"b", "hol":1.13423,"holAnt": 1.34572, "msgTxt":"holgura por valorizacion"},
+        { "lim":"c11", "fdo":"a", "hol":-0.99342,"holAnt": 0.00032, "msgTxt":"exceso intraday"},
         { "lim":"a3", "fdo":"b", "hol":1.34572,"holAnt": 0.23564, "msgTxt":"holgura por alza dolar"}
     ]
 }
